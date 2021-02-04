@@ -1,0 +1,13 @@
+/*
+!*.gitignore
+!README.md
+!environment.yml
+!/Notebooks
+/Notebooks/*
+/Notebooks/.ipynb_checkpoints/*
+!/Notebooks/0-Introduction.ipynb
+!/Notebooks/1-Variables_and_Arithmetic.ipynb
+!/Notebooks/images
+/Notebooks/images/*
+/Notebooks/images/.ipynb_checkpoints/*
+!/Notebooks/images/download_archive.png

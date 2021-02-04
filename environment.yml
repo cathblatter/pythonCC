@@ -1,0 +1,10 @@
+name: pythonCC
+channels:
+- defaults
+dependencies:
+- matplotlib
+- numpy
+- pandas
+- seaborn
+- scipy
+- scikit-learn
