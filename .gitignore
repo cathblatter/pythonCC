@@ -10,4 +10,4 @@
 !/Notebooks/images
 /Notebooks/images/*
 /Notebooks/images/.ipynb_checkpoints/*
-!/Notebooks/images/download_archive.png
+!/Notebooks/images/cell_example.png
